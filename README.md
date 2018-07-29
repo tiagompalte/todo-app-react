@@ -30,7 +30,7 @@ Esse projeto é um To Do App feito em React. Backend codificado em JS rodado em 
 
 `mongod`
 
-* Rode a aplicação de backend, no mode de desenvolvimento
+* Rode a aplicação de backend, no modo de desenvolvimento
 
 `npm run dev`
 
