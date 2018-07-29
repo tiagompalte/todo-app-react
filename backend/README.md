@@ -7,3 +7,7 @@ Esse projeto é o backend da aplicação todo-app-react. Você vai precisar de u
 
 ## Run APP - Production mode
 `npm run production`
+
+* A aplicação irá rodar no seguinte endereço: `http://localhost:3030`
+
+**GOD* is good*
